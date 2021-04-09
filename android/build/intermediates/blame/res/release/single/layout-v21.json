@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/746d596668c7c64e6eb1607dca2ca331/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/746d596668c7c64e6eb1607dca2ca331/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/746d596668c7c64e6eb1607dca2ca331/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/746d596668c7c64e6eb1607dca2ca331/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/459701daa4ef392b9a61bc1d62740ddf/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/459701daa4ef392b9a61bc1d62740ddf/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

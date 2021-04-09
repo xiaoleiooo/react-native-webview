@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/rainy/.gradle/caches/transforms-2/files-2.1/a881f20fc0a86fed3b9d87be3772a182/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/file_provider_paths.xml",
+        "source": "/Users/rainy/Documents/rnspace/TCOA.AnyHrApp59.211/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml"
+    }
+]
